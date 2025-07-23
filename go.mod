@@ -1,4 +1,4 @@
-module github.com/Rayan511x55x/gophertunnell
+module github.com/Rayan511x55x/gophertunnell/
 
 go 1.24
 
